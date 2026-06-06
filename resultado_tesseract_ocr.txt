@@ -1,0 +1,272 @@
+================================================================================
+ARQUIVO: 10_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> 'T2'
+binary=simples    blur=False morph=True  -> 'LTZ'
+binary=simples    blur=True  morph=False -> 'UZ'
+binary=simples    blur=True  morph=True  -> 'UZ'
+binary=otsu       blur=False morph=False -> 'Z'
+binary=otsu       blur=False morph=True  -> 'LTZ'
+binary=otsu       blur=True  morph=False -> 'UZ'
+binary=otsu       blur=True  morph=True  -> 'UZ'
+binary=adaptativo blur=False morph=False -> 'S'
+binary=adaptativo blur=False morph=True  -> '1DW'
+binary=adaptativo blur=True  morph=False -> 'S'
+binary=adaptativo blur=True  morph=True  -> 'S'
+
+================================================================================
+ARQUIVO: 11_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> ''
+binary=simples    blur=False morph=True  -> ''
+binary=simples    blur=True  morph=False -> 'N9'
+binary=simples    blur=True  morph=True  -> '9'
+binary=otsu       blur=False morph=False -> ''
+binary=otsu       blur=False morph=True  -> 'JMNLSU98 N'
+binary=otsu       blur=True  morph=False -> ''
+binary=otsu       blur=True  morph=True  -> ''
+binary=adaptativo blur=False morph=False -> ''
+binary=adaptativo blur=False morph=True  -> ''
+binary=adaptativo blur=True  morph=False -> 'CNLSUD8 8'
+binary=adaptativo blur=True  morph=True  -> ''
+
+================================================================================
+ARQUIVO: 12_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> 'IET7G88'
+binary=simples    blur=False morph=True  -> 'E17638 88I'
+binary=simples    blur=True  morph=False -> 'SET7638'
+binary=simples    blur=True  morph=True  -> 'E7638'
+binary=otsu       blur=False morph=False -> 'JET7G88'
+binary=otsu       blur=False morph=True  -> ''
+binary=otsu       blur=True  morph=False -> ''
+binary=otsu       blur=True  morph=True  -> 'JET7G88'
+binary=adaptativo blur=False morph=False -> ''
+binary=adaptativo blur=False morph=True  -> ''
+binary=adaptativo blur=True  morph=False -> ''
+binary=adaptativo blur=True  morph=True  -> ''
+
+================================================================================
+ARQUIVO: 13_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> ''
+binary=simples    blur=False morph=True  -> 'AE'
+binary=simples    blur=True  morph=False -> ''
+binary=simples    blur=True  morph=True  -> ''
+binary=otsu       blur=False morph=False -> 'ABPSGSS'
+binary=otsu       blur=False morph=True  -> 'A S B89'
+binary=otsu       blur=True  morph=False -> 'ABPSGSS'
+binary=otsu       blur=True  morph=True  -> ''
+binary=adaptativo blur=False morph=False -> ''
+binary=adaptativo blur=False morph=True  -> ''
+binary=adaptativo blur=True  morph=False -> ''
+binary=adaptativo blur=True  morph=True  -> ''
+
+================================================================================
+ARQUIVO: 14_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> 'C'
+binary=simples    blur=False morph=True  -> ''
+binary=simples    blur=True  morph=False -> 'CP'
+binary=simples    blur=True  morph=True  -> 'CT'
+binary=otsu       blur=False morph=False -> ''
+binary=otsu       blur=False morph=True  -> ''
+binary=otsu       blur=True  morph=False -> ''
+binary=otsu       blur=True  morph=True  -> 'T'
+binary=adaptativo blur=False morph=False -> ''
+binary=adaptativo blur=False morph=True  -> ''
+binary=adaptativo blur=True  morph=False -> ''
+binary=adaptativo blur=True  morph=True  -> 'T'
+
+================================================================================
+ARQUIVO: 15_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> 'PTHY7E19'
+binary=simples    blur=False morph=True  -> 'PTHV7E291'
+binary=simples    blur=True  morph=False -> 'PTHV7E19'
+binary=simples    blur=True  morph=True  -> ''
+binary=otsu       blur=False morph=False -> 'PTHV7E19'
+binary=otsu       blur=False morph=True  -> 'PTHV7E19'
+binary=otsu       blur=True  morph=False -> 'PTHV7E19'
+binary=otsu       blur=True  morph=True  -> 'PTHV7E19'
+binary=adaptativo blur=False morph=False -> ''
+binary=adaptativo blur=False morph=True  -> ''
+binary=adaptativo blur=True  morph=False -> ''
+binary=adaptativo blur=True  morph=True  -> ''
+
+================================================================================
+ARQUIVO: 16_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> 'CUHK5065'
+binary=simples    blur=False morph=True  -> 'CUHK5065'
+binary=simples    blur=True  morph=False -> ''
+binary=simples    blur=True  morph=True  -> 'UHK5065'
+binary=otsu       blur=False morph=False -> 'LUHK5055'
+binary=otsu       blur=False morph=True  -> ''
+binary=otsu       blur=True  morph=False -> '7 5'
+binary=otsu       blur=True  morph=True  -> '7 5'
+binary=adaptativo blur=False morph=False -> ''
+binary=adaptativo blur=False morph=True  -> ''
+binary=adaptativo blur=True  morph=False -> ''
+binary=adaptativo blur=True  morph=True  -> ''
+
+================================================================================
+ARQUIVO: 17_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> ''
+binary=simples    blur=False morph=True  -> ''
+binary=simples    blur=True  morph=False -> ''
+binary=simples    blur=True  morph=True  -> ''
+binary=otsu       blur=False morph=False -> ''
+binary=otsu       blur=False morph=True  -> ''
+binary=otsu       blur=True  morph=False -> 'Q'
+binary=otsu       blur=True  morph=True  -> 'Q'
+binary=adaptativo blur=False morph=False -> ''
+binary=adaptativo blur=False morph=True  -> ''
+binary=adaptativo blur=True  morph=False -> ''
+binary=adaptativo blur=True  morph=True  -> ''
+
+================================================================================
+ARQUIVO: 18_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> '1 BRASIL 7'
+binary=simples    blur=False morph=True  -> '1'
+binary=simples    blur=True  morph=False -> 'A'
+binary=simples    blur=True  morph=True  -> ''
+binary=otsu       blur=False morph=False -> 'LX BRASIL EZ O'
+binary=otsu       blur=False morph=True  -> 'H'
+binary=otsu       blur=True  morph=False -> 'Y 7 F'
+binary=otsu       blur=True  morph=True  -> 'Y F'
+binary=adaptativo blur=False morph=False -> ''
+binary=adaptativo blur=False morph=True  -> ''
+binary=adaptativo blur=True  morph=False -> 'XDASESS'
+binary=adaptativo blur=True  morph=True  -> 'EXDASESS'
+
+================================================================================
+ARQUIVO: 19_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> ''
+binary=simples    blur=False morph=True  -> ''
+binary=simples    blur=True  morph=False -> ''
+binary=simples    blur=True  morph=True  -> ''
+binary=otsu       blur=False morph=False -> ''
+binary=otsu       blur=False morph=True  -> ''
+binary=otsu       blur=True  morph=False -> ''
+binary=otsu       blur=True  morph=True  -> ''
+binary=adaptativo blur=False morph=False -> ''
+binary=adaptativo blur=False morph=True  -> ''
+binary=adaptativo blur=True  morph=False -> ''
+binary=adaptativo blur=True  morph=True  -> ''
+
+================================================================================
+ARQUIVO: 1_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> ''
+binary=simples    blur=False morph=True  -> ''
+binary=simples    blur=True  morph=False -> ''
+binary=simples    blur=True  morph=True  -> ''
+binary=otsu       blur=False morph=False -> ''
+binary=otsu       blur=False morph=True  -> ''
+binary=otsu       blur=True  morph=False -> ''
+binary=otsu       blur=True  morph=True  -> ''
+binary=adaptativo blur=False morph=False -> ''
+binary=adaptativo blur=False morph=True  -> ''
+binary=adaptativo blur=True  morph=False -> ''
+binary=adaptativo blur=True  morph=True  -> ''
+
+================================================================================
+ARQUIVO: 2_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> ''
+binary=simples    blur=False morph=True  -> ''
+binary=simples    blur=True  morph=False -> ''
+binary=simples    blur=True  morph=True  -> ''
+binary=otsu       blur=False morph=False -> ''
+binary=otsu       blur=False morph=True  -> ''
+binary=otsu       blur=True  morph=False -> ''
+binary=otsu       blur=True  morph=True  -> ''
+binary=adaptativo blur=False morph=False -> ''
+binary=adaptativo blur=False morph=True  -> ''
+binary=adaptativo blur=True  morph=False -> ''
+binary=adaptativo blur=True  morph=True  -> ''
+
+================================================================================
+ARQUIVO: 3_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> ''
+binary=simples    blur=False morph=True  -> 'EZ2Z18'
+binary=simples    blur=True  morph=False -> ''
+binary=simples    blur=True  morph=True  -> ''
+binary=otsu       blur=False morph=False -> ''
+binary=otsu       blur=False morph=True  -> 'Z2Z218'
+binary=otsu       blur=True  morph=False -> ''
+binary=otsu       blur=True  morph=True  -> 'ELVZ2218 YZ2218'
+binary=adaptativo blur=False morph=False -> ''
+binary=adaptativo blur=False morph=True  -> ''
+binary=adaptativo blur=True  morph=False -> ''
+binary=adaptativo blur=True  morph=True  -> 'IVZ2Z48 Z224 E'
+
+================================================================================
+ARQUIVO: 4_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> ''
+binary=simples    blur=False morph=True  -> ''
+binary=simples    blur=True  morph=False -> ''
+binary=simples    blur=True  morph=True  -> ''
+binary=otsu       blur=False morph=False -> ''
+binary=otsu       blur=False morph=True  -> ''
+binary=otsu       blur=True  morph=False -> ''
+binary=otsu       blur=True  morph=True  -> ''
+binary=adaptativo blur=False morph=False -> ''
+binary=adaptativo blur=False morph=True  -> ''
+binary=adaptativo blur=True  morph=False -> ''
+binary=adaptativo blur=True  morph=True  -> 'T GOWON FT'
+
+================================================================================
+ARQUIVO: 7_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> ''
+binary=simples    blur=False morph=True  -> 'ASERSSS'
+binary=simples    blur=True  morph=False -> ''
+binary=simples    blur=True  morph=True  -> ''
+binary=otsu       blur=False morph=False -> ''
+binary=otsu       blur=False morph=True  -> ''
+binary=otsu       blur=True  morph=False -> ''
+binary=otsu       blur=True  morph=True  -> ''
+binary=adaptativo blur=False morph=False -> 'NE'
+binary=adaptativo blur=False morph=True  -> '8'
+binary=adaptativo blur=True  morph=False -> 'R2'
+binary=adaptativo blur=True  morph=True  -> 'EE'
+
+================================================================================
+ARQUIVO: 8_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> ''
+binary=simples    blur=False morph=True  -> ''
+binary=simples    blur=True  morph=False -> ''
+binary=simples    blur=True  morph=True  -> ''
+binary=otsu       blur=False morph=False -> ''
+binary=otsu       blur=False morph=True  -> ''
+binary=otsu       blur=True  morph=False -> ''
+binary=otsu       blur=True  morph=True  -> ''
+binary=adaptativo blur=False morph=False -> ''
+binary=adaptativo blur=False morph=True  -> 'TO'
+binary=adaptativo blur=True  morph=False -> ''
+binary=adaptativo blur=True  morph=True  -> ''
+
+================================================================================
+ARQUIVO: 9_placa.png
+================================================================================
+binary=simples    blur=False morph=False -> ''
+binary=simples    blur=False morph=True  -> ''
+binary=simples    blur=True  morph=False -> ''
+binary=simples    blur=True  morph=True  -> ''
+binary=otsu       blur=False morph=False -> ''
+binary=otsu       blur=False morph=True  -> ''
+binary=otsu       blur=True  morph=False -> 'LAOAGII6 AJA 6'
+binary=otsu       blur=True  morph=True  -> ''
+binary=adaptativo blur=False morph=False -> ''
+binary=adaptativo blur=False morph=True  -> ''
+binary=adaptativo blur=True  morph=False -> ''
+binary=adaptativo blur=True  morph=True  -> ''
+

@@ -1,0 +1,27 @@
+ANÁLISE RESUMIDA DOS RESULTADOS OCR
+
+Foram analisadas 19 placas veiculares utilizando 12 combinações de pré-processamento 
+(binarização simples, Otsu e adaptativa, com e sem aplicação de blur e operações morfológicas).
+As combinações e codigos foram tirados dos PDFs fornecidos pelo professor Gustavo Palma.
+
+Comparando os resultados obtidos com as placas reais, verificou-se que 13 das 19 placas 
+(68,42%) puderam ser identificadas em pelo menos uma combinação de processamento utilizando easyOCR. 
+Considerando apenas as 17 placas presentes nos resultados OCR, a taxa de identificação foi de 76,47%.
+
+As melhores leituras foram obtidas para as placas A0A4J16, ABP8Q89, UHK5055, MNL3U98 e JET7G88, 
+que apresentaram resultados muito próximos ou idênticos às placas reais. 
+Por outro lado, as placas GXQ2J95, XHY6U29 e PDU7G22 não produziram leituras suficientes para 
+identificação confiável.
+
+Enquanto para o Tesseract os resultados foram inferiores.
+Observou-se que 11 das 17 placas analisadas (64,71%) puderam ser identificadas total ou parcialmente 
+em pelo menos uma combinação de pré-processamento. 
+As melhores leituras ocorreram para as placas JET7G88, THY7E19, UHK5055, MNL3U98, ABP8Q89, 
+XDA5E50 e IYZ2Z18, que apresentaram resultados muito próximos ou idênticos às placas reais.
+
+Por outro lado, as placas IFA1T95, NEV1C08, GXQ2J95, XHY6U29, PDU7G22 e ESI4I93 não 
+apresentaram leituras suficientes para identificação confiável, mesmo após a aplicação 
+das diferentes combinações de processamento.
+
+Os resultados indicam que easyOCR possui maior potencial de identificação de placas utilizando
+tais combinações de pré processamento.
